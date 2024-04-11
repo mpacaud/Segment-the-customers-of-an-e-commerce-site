@@ -2,12 +2,12 @@
 
 ## Issues addressed by the project
 
-Olist, a Brazilian company offering a sales solution on online marketplaces, wanted to provide its e-commerce teams with a segmentation of the platform's customers that they could use for their communication campaigns.
+Olist, a Brazilian company offering a sales solution on online marketplaces, wants to provide its e-commerce teams with a segmentation of customers using their platform that they could use for their communication campaigns.
 
 ## Objectives
 
-The assignment involves helping Olist's teams to understand the different types of user through their behaviour and personal data in order to differentiate customers in terms of satisfaction and orders, at the very least by grouping similar profiles together.
-The study concludes with an analysis of the stability of the segments over time for a proposed maintenance contract.
+The assignment involves helping Olist's teams to understand the different types of user through their behaviour and personal data in order to differentiate customers in terms of satisfaction and orders, at the very least, by grouping similar profiles together.
+The study concludes with an analysis of the stability of clusters over time for a maintenance contract proposal.
 
 ## Folder tree
 
